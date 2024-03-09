@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(204, 89, 152);
+}
+
+.play{
+    background-color: orange;
+    font-weight: bolder;
+    justify-self: center;
+    position: absolute;
+    width: 50%;
+    height: 30%;
+    font-size: 400%;
+    border-style: solid;
+    border-color: brown;
+}
